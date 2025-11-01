@@ -1,0 +1,5 @@
+def data_type_finder(n):
+    data_type = type (n) 
+    print(f"the user input is {data_type}is:")
+
+data_type_finder("hello world")
