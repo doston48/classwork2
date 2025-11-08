@@ -1,10 +1,10 @@
 
-words = input("Enter a sentence: ")
+# words = input("Enter a sentence: ")
 
-if words.strip() == "":
-    print("Error: You didn't enter anything!")
-else:
+# if words.strip() == "":
+#     print("Error: You didn't enter anything!")
+# else:
 
-    words = words.split()
+#     words = words.split()
 
-    print("Total number of words:", len(words))
+#     print("Total number of words:", len(words))
